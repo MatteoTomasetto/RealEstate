@@ -1,4 +1,4 @@
-# Real_Estate
+# Real Estate
 
 These are the steps done in this project: 
 - Web scraping to download and collect data available online about Houses sold in Italy (Python, HTML).
